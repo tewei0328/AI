@@ -1,6 +1,5 @@
 # 第一章 Colab
 
-<img height="60px" src="/img/colab_favicon.ico" align="left" hspace="20px" vspace="5px">
 
 ## 歡迎使用 Colaboratory！
 
