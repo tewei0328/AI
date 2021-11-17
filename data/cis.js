@@ -9,3 +9,5 @@ cis1=[
 
   {q:"4.その本質はどちらかといえば~", a:"本質是相當~", img:"https://i.imgur.com/stetmNV.jpg"}, 
   ];
+
+console.log(cis0);
