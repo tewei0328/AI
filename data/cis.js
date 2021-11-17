@@ -1,3 +1,8 @@
+function sum(a,b) {
+    result=a*b;
+    return result;
+}
+
 function data1() {
   var cisdata=
   [
